@@ -127,8 +127,9 @@
 <MAPPEDCOMPONENT_7c Height="12" Key="LED: /LED_97" LocationX="285" LocationY="306" Width="4"/>
 <MAPPEDCOMPONENT_7d Height="12" Key="LED: /LED_98" LocationX="285" LocationY="287" Width="4"/>
 <MAPPEDCOMPONENT_7e Height="12" Key="LED: /LED_99" LocationX="285" LocationY="268" Width="4"/>
-<MAPPEDCOMPONENT_7f Height="63" Key="SEVENSEGMENT: /L" LocationX="553" LocationY="283" Width="82"/>
-<MAPPEDCOMPONENT_80 Height="60" Key="SEVENSEGMENT: /LM" LocationX="554" LocationY="221" Width="82"/>
-<MAPPEDCOMPONENT_81 Height="64" Key="SEVENSEGMENT: /R" LocationX="554" LocationY="90" Width="84"/>
-<MAPPEDCOMPONENT_82 Height="61" Key="SEVENSEGMENT: /RM" LocationX="556" LocationY="157" Width="80"/>
+<MAPPEDCOMPONENT_7f Height="8" Key="PIN: /Antenne" LocationX="145" LocationY="328" Width="7"/>
+<MAPPEDCOMPONENT_80 Height="63" Key="SEVENSEGMENT: /L" LocationX="553" LocationY="283" Width="82"/>
+<MAPPEDCOMPONENT_81 Height="60" Key="SEVENSEGMENT: /LM" LocationX="554" LocationY="221" Width="82"/>
+<MAPPEDCOMPONENT_82 Height="64" Key="SEVENSEGMENT: /R" LocationX="554" LocationY="90" Width="84"/>
+<MAPPEDCOMPONENT_83 Height="61" Key="SEVENSEGMENT: /RM" LocationX="556" LocationY="157" Width="80"/>
 </LogisimGoesFPGABoardMapInformation>
