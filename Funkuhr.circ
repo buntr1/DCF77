@@ -7085,8 +7085,8 @@ end TCL_Generic;&#13;
     <comp lib="1" loc="(830,120)" name="NOT Gate">
       <a name="facing" val="south"/>
     </comp>
-    <comp loc="(2120,210)" name="Counter_370ms">
-      <a name="label" val="Counter_370ms_0"/>
+    <comp loc="(2120,210)" name="Counter_350ms">
+      <a name="label" val="Counter_3500ms_0"/>
     </comp>
     <comp loc="(940,450)" name="add8bit">
       <a name="label" val="Bitdata"/>
@@ -7825,8 +7825,8 @@ end TCL_Generic;&#13;
       <a name="label" val="Eingang_1"/>
     </comp>
   </circuit>
-  <circuit name="Counter_370ms">
-    <a name="circuit" val="Counter_370ms"/>
+  <circuit name="Counter_350ms">
+    <a name="circuit" val="Counter_350ms"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif bold 16"/>
