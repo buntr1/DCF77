@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <LogisimGoesFPGABoardMapInformation>
-<GlobalMapInformation BoardName="GECKO4_EDUCATION" ToplevelCircuitName="Part_Buntr1_Final"/>
+<GlobalMapInformation BoardName="GECKO4_EDUCATION" ToplevelCircuitName="Hauptschaltung_Final"/>
 <MAPPEDCOMPONENT_1 Height="38" Key="BUTTON: /Taste_Gecko_5" LocationX="320" LocationY="98" Width="38"/>
 <MAPPEDCOMPONENT_2 Height="38" Key="BUTTON: /Taste_gecko_1" LocationX="321" LocationY="274" Width="39"/>
 <MAPPEDCOMPONENT_3 Height="39" Key="BUTTON: /Taste_gecko_2" LocationX="322" LocationY="231" Width="38"/>
